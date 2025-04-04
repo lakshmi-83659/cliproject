@@ -36,9 +36,9 @@ http://httpbin.org/get
   go run cmd/main.go
 
 - You will see a prompt:
-  >>>
+  >
 - Run with your CSV file
-  >>> run samples.csv
+  > run samples.csv
 
 - The app will:
 Read the file
@@ -47,7 +47,7 @@ Save responses in the output/ folder as .txt files
 
 - Exit the CLI
 At the prompt, type:
->>> exit
+> exit
 
 - To run Testcases
   cd cliproject/cmd
